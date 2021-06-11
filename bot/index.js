@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const { token, prefix } = require("./config.json");
+const { token, prefix } = require("../config.json");
 const { Player } = require('./skyblock');
 const { NotImplementedError } = require('./errors');
 

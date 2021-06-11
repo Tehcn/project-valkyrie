@@ -1,0 +1,6 @@
+{
+    "token": "ODUyMDgxOTI4MTY4OTMxMzM4.YMBpIg.vOWcg6xVmXeifCHhGqCatxj1IcM",
+    "prefix": "$",
+    "redirect_uri": "https://discord.com/api/oauth2/authorize?client_id=852081928168931338&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.com%2Fapi%2Foauth2%2Fauthorize&response_type=code&scope=guilds%20messages.read%20identify%20bot",
+    "hypixel_key": "03275f22-b3d5-478b-913e-8e014f073df5"
+}

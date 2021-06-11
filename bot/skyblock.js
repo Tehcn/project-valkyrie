@@ -1,4 +1,4 @@
-const { hypixel_key } = require("./config.json");
+const { hypixel_key } = require("../config.json");
 const fetch = require('node-fetch');
 const { ExpToLevel } = require('./ExpToLevel');
 
